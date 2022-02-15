@@ -5,3 +5,4 @@ three of my main focus are
 
 1) JavaScript
 2) React
+3) Testing both JS and React
